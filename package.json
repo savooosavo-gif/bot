@@ -1,4 +1,9 @@
 {
+  {
+    "scripts": {
+      "start": "node bot.js"
+    }
+  }
   "name": "discord-bot",
   "version": "1.0.0",
   "description": "Discord bot with /setup and /embed commands",
@@ -10,4 +15,3 @@
     "discord.js": "^14.18.0"
   }
 }
-
